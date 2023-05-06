@@ -4,7 +4,7 @@ import BookForm from './BookForm';
 
 const BookList = () => (
   <div>
-    <Book />
+    <Book title="Classroom Of the elite" category="Psychological thriller" author="Shogo Kinugasa" />
     <hr />
     <BookForm />
   </div>
