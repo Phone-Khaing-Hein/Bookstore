@@ -79,7 +79,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Rimuru-Tempest-26/calculator.git
+  git clone https://github.com/Rimuru-Tempest-26/Bookstore.git
 ```
 
 ### Install
@@ -132,7 +132,6 @@ Example:
 👤 **Phone Khaing Hein**
 
 - GitHub: [@phonekhainghein](https://github.com/Rimuru-Tempest-26)
-- Twitter: [@phonekhainghein](https://twitter.com/PhoneKhaingHein)
 - LinkedIn: [Phone Khaing Hein](https://www.linkedin.com/in/phone-khaing-hein-759497216/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
