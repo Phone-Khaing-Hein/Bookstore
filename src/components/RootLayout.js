@@ -1,6 +1,5 @@
 import React from 'react';
 import { NavLink, Outlet } from 'react-router-dom';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { BsFillPersonFill } from 'react-icons/bs';
 
 export default function Rootlayout() {
